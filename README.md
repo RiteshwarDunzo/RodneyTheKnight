@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/c0bb4af0-bc04-4215-baaa-8e08ed0d1fab
 - Godot Engine 4.6.3
 - GDScript
 - Aseprite
-- 
+
 ## 🚧 Project Status
 
 This project is currently under active development. New content, mechanics, enemies, and levels will continue to be added as development progresses.
