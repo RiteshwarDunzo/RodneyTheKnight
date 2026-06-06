@@ -4,7 +4,7 @@ A fantasy-themed 2D platformer built with *Godot 4.6.3*
 
 Inspired by Brackeys' Godot tutorial series, this project started as a learning experience and is continuously being expanded with new features, mechanics, enemies, and gameplay improvements.
 
-Play as a brave knight and embark on an adventure filled with challenging jumps, dangerous slimes, hidden treasures, and exciting platforming action.
+Lost after a devastating battle, a brave knight embarks on a perilous journey home, battling monsters and overcoming obstacles along the way. Play as Rodney the knight and embark on an adventure filled with challenging jumps, dangerous slimes, hidden treasures, and exciting platforming action.
 
 https://github.com/user-attachments/assets/c0bb4af0-bc04-4215-baaa-8e08ed0d1fab
 
