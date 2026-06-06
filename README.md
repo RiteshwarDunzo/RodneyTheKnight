@@ -40,8 +40,7 @@ https://your-demo-video-link-here
 - Godot Engine 4.6.3
 - GDScript
 - Aseprite
-- Git & GitHub
-
+- 
 ## 🚧 Project Status
 
 This project is currently under active development. New content, mechanics, enemies, and levels will continue to be added as development progresses.
@@ -94,7 +93,6 @@ This project is helping me learn:
 - Animation Systems
 - Audio Integration
 - UI Development
-- Version Control with Git
 
 ## 🙏 Credits
 
