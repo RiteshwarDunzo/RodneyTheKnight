@@ -73,8 +73,7 @@ git clone https://github.com/RiteshwarDunzo/RodneyTheKnight.git
 ## 📂 Project Structure
 
 ```text
-assets/      -> Sprites, textures, and artwork
-audio/       -> Sound effects and music
+assets/      -> Sprites, textures,audio,fonts and artwork
 scenes/      -> Game scenes
 scripts/     -> GDScript files
 ```
