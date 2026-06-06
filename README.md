@@ -1,6 +1,6 @@
 # Rodney The Knight
 
-A fantasy-themed 2D platformer built with *Godot 4.6.3*
+A fantasy-themed 2D platformer built with *Godot 4.6.3"
 
 Inspired by Brackeys' Godot tutorial series, this project started as a learning experience and is continuously being expanded with new features, mechanics, enemies, and gameplay improvements.
 
